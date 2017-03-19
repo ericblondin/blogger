@@ -111,12 +111,12 @@
 
 /* line 81, ../sass/lightbox.sass */
 .lb-prev:hover {
-  background: url(https://dl.dropbox.com/u/25307425/blogspot/images/prev.png) left 48% no-repeat;
+  background: url(https://raw.githubusercontent.com/ericblondin/blogger/master/images/prev.png) left 48% no-repeat;
 }
 
 /* line 85, ../sass/lightbox.sass */
 .lb-next:hover {
-  background: url(https://dl.dropbox.com/u/25307425/blogspot/images/next.png) right 48% no-repeat;
+  background: url(https://raw.githubusercontent.com/ericblondin/blogger/master/images/next.png) right 48% no-repeat;
 }
 
 /* line 88, ../sass/lightbox.sass */

@@ -100,7 +100,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
  *----------------------------------------------- */
 /* line 33, ../sass/screen.sass */
 body {
-  background: #222222 url(https://dl.dropbox.com/u/25307425/blogspot/images/bg-checker.png);
+  background: #222222 url(https://raw.githubusercontent.com/ericblondin/blogger/master/images/bg-checker.png);
 }
 
 /* line 36, ../sass/screen.sass */
@@ -445,7 +445,7 @@ a:hover {
 .changelog li {
   list-style: none;
   padding: 0 0 0 14px;
-  background: url(https://dl.dropbox.com/u/25307425/blogspot/images/bullet.gif) no-repeat 0 11px;
+  background: url(https://raw.githubusercontent.com/ericblondin/blogger/master/images/bullet.gif) no-repeat 0 11px;
   color: #999999;
 }
 /* line 242, ../sass/screen.sass */

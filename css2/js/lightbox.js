@@ -48,8 +48,8 @@ lightbox = new Lightbox options
   LightboxOptions = (function() {
 
     function LightboxOptions() {
-      this.fileLoadingImage = 'https://dl.dropbox.com/u/25307425/blogspot/images/loading.gif';
-      this.fileCloseImage = 'https://dl.dropbox.com/u/25307425/blogspot/images/close.png';
+      this.fileLoadingImage = 'https://raw.githubusercontent.com/ericblondin/blogger/master/images/loading.gif';
+      this.fileCloseImage = 'https://raw.githubusercontent.com/ericblondin/blogger/master/images/close.png';
       this.resizeDuration = 100;
       this.fadeDuration = 100;
       this.labelImage = "Image";
