@@ -1,0 +1,20 @@
+
+
+***
+Instructions:
+simply extract all of the contents from the .zip to C:\Program Files\Adobe\Adobe Photoshop CC 2015\Presets\Scripts. Then when you start Photoshop you will have a ToggleUVs_Simple entry under File > Scripts. 
+
+You need to have a Group named "UVs" for this to work.  When ran, this script will toggle the visibility of that group. 
+***
+
+***
+Description:
+This script toggles the visiblity of a predifined group "UVs" on and off. This makes it very easy to quickly turn off and on your UV overlay in Photoshop. You can assign this script to an action and then hotkey that action to speed up the process.
+***
+
+
+Created by Eric Blondin
+any questions or comments please feel free to contact me 
+ericblondin@hotmail.com
+
+Thanks for trying it out!
